@@ -17,7 +17,8 @@
 
 # 🎉 อยากใช้บอท? เชิญไปที่เซิร์ฟเวอร์ของคุณเลย!
 📌 👉 https://discord.com/oauth2/authorize?client_id=1342453913915228251&permissions=8&integration_type=0&scope=bot
-
+# SERVER SUPPORT เข้ามาทดลองใช้งานก่อนได้คับ
+📌 👉 https://discord.gg/XCvWXtuHXA 
 🤝 # ติดต่อเรา & แจ้งปัญหา
 📩 Facebook: Natthawat Thongthangsai!
 
