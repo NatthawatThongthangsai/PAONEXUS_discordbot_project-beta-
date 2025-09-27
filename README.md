@@ -1,4 +1,4 @@
-# 🌟PaoNexus – บอท Discord มาใหม่ 🚀
+# 🌟NOVAMAX – บอท Discord มาใหม่ 🚀
 💬 "สุดยอดบอทที่ช่วยให้เซิร์ฟเวอร์ของคุณมีชีวิตชีวา!" 🌌✨
 # 🚀  ฟีเจอร์เด็ดที่คุณต้องลอง!
 🌤️ /weather <location> – #เช็คสภาพอากาศ แบบเรียลไทม์! ☀️🌧️
@@ -18,10 +18,7 @@
 # 🎉 อยากใช้บอท? เชิญไปที่เซิร์ฟเวอร์ของคุณเลย!
 📌 👉 https://discord.com/oauth2/authorize?client_id=1342453913915228251&permissions=8&integration_type=0&scope=bot
 # SERVER SUPPORT เข้ามาทดลองใช้งานก่อนได้คับ
-📌 👉 https://discord.gg/XCvWXtuHXA 
-
-🤝 # ติดต่อเรา & แจ้งปัญหา
-📩 Facebook: Natthawat Thongthangsai!
+📌 👉 ปิดใช้งานชั่วคราว
 
 💙 #PaoNexus – ทำให้ Discord ของคุณสนุกขึ้น! 🚀
 
